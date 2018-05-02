@@ -2,8 +2,14 @@ body{
   margin: 0 0 0 50px;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0 0 30px;
+}
+
 .item {
   display: flex;
-  font-size: 150%;
+  font-size: 130%;
   align-items: center;
 }
