@@ -1,0 +1,9 @@
+body{
+  margin: 200px 0 200px 100px;
+}
+
+.item {
+  display: flex;
+  font-size: 150%;
+  align-items: center;
+}
