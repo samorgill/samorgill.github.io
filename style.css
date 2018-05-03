@@ -14,11 +14,6 @@ rect {
    height:80px;
 }
 
-text {
-  x:30px;
-  y:55px;
-}
-
 .container {
   display: flex;
   flex-direction: column;
